@@ -4,3 +4,5 @@
 ###part 1
 	Activity.xmind
 	Activity.png
+预览：
+![](https://raw.githubusercontent.com/zhuyongit/AndroidDevelopmentArt/master/Activity.png)
