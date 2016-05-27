@@ -19,3 +19,11 @@
 
 预览：
 ![](https://raw.githubusercontent.com/zhuyongit/AndroidDevelopmentArt/master/Activity.png)
+
+
+###part 2
+
+> IPC机制.xmind
+> 
+> IPC机制.png
+> 
