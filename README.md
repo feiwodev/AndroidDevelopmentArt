@@ -27,6 +27,8 @@
 > 
 > IPC机制.png
 
+IPC机制 ， 知识点过多 ，一时无法做完 ，分两次完成制作 。
+
 
 预览：
 ![](https://raw.githubusercontent.com/zhuyongit/AndroidDevelopmentArt/master/IPC%E6%9C%BA%E5%88%B6.png)
