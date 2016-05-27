@@ -26,4 +26,7 @@
 > IPC机制.xmind
 > 
 > IPC机制.png
-> 
+
+
+预览：
+![](https://raw.githubusercontent.com/zhuyongit/AndroidDevelopmentArt/master/IPC%E6%9C%BA%E5%88%B6.png)
