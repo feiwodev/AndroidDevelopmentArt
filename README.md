@@ -31,4 +31,4 @@ IPC机制脑图已做完 ，Demo还没写
 
 
 预览：
-![](https://raw.githubusercontent.com/zhuyongit/AndroidDevelopmentArt/master/IPC%E6%9C%BA%E5%88%B6.png)
+![](https://raw.githubusercontent.com/zhuyongit/AndroidDevelopmentArt/master/IPC_%E6%9C%BA%E5%88%B6.png)
