@@ -26,8 +26,10 @@
 > IPC机制.xmind
 > 
 > IPC机制.png
-
-IPC机制脑图已做完 ，Demo还没写 
+>
+> ActivityDemo项目地址 ：
+>  
+> 1. [IPC_FileShare-文件共享操作](https://github.com/zhuyongit/IPC_FileShare)
 
 
 预览：
